@@ -33,7 +33,7 @@ Finally, over 70% of all listed products had fewer than 1,000 reviews, which poi
 The findings suggest a significant imbalance between discount strategies and actual product performance. While categories like Fashion depend heavily on discounts, they lag in customer engagement and satisfaction. On the other hand, categories like Electronics strike a better balance between pricing, product quality, and user engagement.
 The review count plays a critical role in building trust with customers. Products with high ratings but few reviews may be high-potential items that are simply not being discovered. These should be brought into focus through marketing initiatives.
 Additionally, discounting should be approached carefully. While discounts may drive clicks, they do not guarantee satisfaction or repeat purchases. It is clear that customer satisfaction depends more on product value and quality than just price.
-![Image](https://github.com/cherub4972/Amazon-Product-Performance-Analysis-Report/blob/main/amazon%202.jpg)
+![Image](https://github.com/cherub4972/Amazon-Product-Performance-Analysis-Report/blob/main/AMAZON%202A.jpg)
 
 ## Challenges Encountered During the analysis 
 One of the biggest issues was the absence of a date field in the dataset. This made it impossible to track trends over time or use timeline filters. Additionally, some calculated fields such as potential revenue and discount percentage did not immediately appear in pivot tables. Refreshing data connections and reloading fields became necessary.
