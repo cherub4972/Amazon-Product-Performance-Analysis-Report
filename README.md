@@ -42,7 +42,7 @@ Another challenge came from long category names, which made it difficult to main
 
 There were also issues with slicer and chart connections. Moving charts between sheets broke some pivot table links, which had to be rebuilt. Lastly, inconsistencies in data (such as missing prices or review counts) had to be manually addressed during cleaning.
 
-![Image](https://github.com/cherub4972/Amazon-Product-Performance-Analysis-Report/blob/main/amazon%203.jpg)
+![Image](https://github.com/cherub4972/Amazon-Product-Performance-Analysis-Report/blob/main/AMAZON%203A.jpg)
 
 
 
